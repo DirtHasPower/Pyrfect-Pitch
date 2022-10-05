@@ -14,5 +14,6 @@ IMPORTANT:<br>
 
 Pyrfect-PitchV2 update:<br>
 -added lower(A = 220) octave<br>
--added repeat function. To use, enter the word "repeat" instead of a guess
--reworked minor string slicing elements. No effect on performance/experience
+-added repeat function. To use, enter the word "repeat" instead of a guess<br>
+-reworked minor string slicing elements. No effect on performance/experience<br>
+-added comments that explain the different sections
