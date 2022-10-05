@@ -11,3 +11,8 @@ Instructions:<br>
 
 IMPORTANT:<br>
 -MAY NOT WORK ON NON-WINDOWS OPERATING SYSTEMS
+
+Pyrfect-PitchV2 update:<br>
+-added lower(A = 220) octave<br>
+-added repeat function. To use, enter the word "repeat" instead of a guess
+-reworked minor string slicing elements. No effect on performance/experience
