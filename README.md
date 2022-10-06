@@ -7,7 +7,7 @@ Packages:<br>
 -time<br>
 
 Instructions:<br>
--On start a note will play. Enter your guess for what the note is(ex. A, Ab, B, Bb). If you guess incorrectly, the right answer will be revealed. After     guessing, the next note will immediately play.
+-On start a note will play. Enter your guess for what the note is(ex. A, Ab, B, Bb) or the word "repeat" to repeat the sound. If you guess incorrectly, the right answer will be revealed. Then press enter to hear the next note.
 
 IMPORTANT:<br>
 -MAY NOT WORK ON NON-WINDOWS OPERATING SYSTEMS
